@@ -1,0 +1,10 @@
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\bin\Debug\1911205_Lab2.exe.config
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\bin\Debug\1911205_Lab2.exe
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\bin\Debug\1911205_Lab2.pdb
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\obj\Debug\1911205_Lab2.csproj.AssemblyReference.cache
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\obj\Debug\_1911205_Lab2.TrungTamForm.resources
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\obj\Debug\_1911205_Lab2.Properties.Resources.resources
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\obj\Debug\1911205_Lab2.csproj.GenerateResource.cache
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\obj\Debug\1911205_Lab2.csproj.CoreCompileInputs.cache
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\obj\Debug\1911205_Lab2.exe
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2\obj\Debug\1911205_Lab2.pdb

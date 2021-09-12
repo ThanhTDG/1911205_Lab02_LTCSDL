@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_1911205_Lab2_Bai2.folderMonHoc.DanhMucMonHoc">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkCAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>folderMonHoc\DanhMucMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1911205_Lab2_Bai2.folderMonHoc.MonHoc">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>folderMonHoc\MonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1911205_Lab2_Bai2.GiaoVienfolder.GiaoVien">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAABAAAAAAAAAAABAAAAAQAAICo=</HashCode>
+      <FileName>GiaoVieofolder\GiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1911205_Lab2_Bai2.GiaoVienfolder.QuanLyGiaoVien">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAgCCAAAACAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>GiaoVieofolder\QuanLyGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1911205_Lab2_Bai2.ThongTinGiaoVienForm">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAAAAACAAAASAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ThongTinGiaoVienForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1911205_Lab2_Bai2.TimThongTinForm">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAACACAAAAAAAACAAoACABBBAEAAAAAAAAAAAAg=</HashCode>
+      <FileName>TimThongTinForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1911205_Lab2_Bai2.Program">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1911205_Lab2_Bai2.Form1" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIUAAAFGCCAIFCgEACAAAAKAGGAgPACQBAEoIIAgAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_1911205_Lab2_Bai2.KieuTim">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>KieuTim.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="_1911205_Lab2_Bai2.GiaoVienfolder.SoSanh">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>GiaoVieofolder\QuanLyGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

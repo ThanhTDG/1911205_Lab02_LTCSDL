@@ -1,0 +1,12 @@
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\bin\Debug\1911205_Lab2_Bai2.exe.config
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\bin\Debug\1911205_Lab2_Bai2.exe
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\bin\Debug\1911205_Lab2_Bai2.pdb
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\1911205_Lab2_Bai2.csproj.AssemblyReference.cache
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\_1911205_Lab2_Bai2.Properties.Resources.resources
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\1911205_Lab2_Bai2.csproj.GenerateResource.cache
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\1911205_Lab2_Bai2.csproj.CoreCompileInputs.cache
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\1911205_Lab2_Bai2.exe
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\1911205_Lab2_Bai2.pdb
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\_1911205_Lab2_Bai2.Form1.resources
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\_1911205_Lab2_Bai2.ThongTinGiaoVienForm.resources
+G:\Project\C#\CKT43\1911205_Lab2\1911205_Lab2_Bai2\obj\Debug\_1911205_Lab2_Bai2.TimThongTinForm.resources
